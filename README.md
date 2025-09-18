@@ -13,7 +13,7 @@ site do curso: [Digital Innovation One](https://web.dio.me/home)
 
 | Aulas | Resumos |
 | ----- | ------- | 
-| Criando e clonando Repositório | [Video Aula](https://web.dio.me/track/ri-happy-front-end-do-zero/course/406684a4-396d-4160-94b9-ead934e18564/learning/a377a00b-461c-4ab0-8258-3addd2fef14c?autoplay=1)|
+| Criando e clonando Repositórios | [Video Aula](https://web.dio.me/track/ri-happy-front-end-do-zero/course/406684a4-396d-4160-94b9-ead934e18564/learning/a377a00b-461c-4ab0-8258-3addd2fef14c?autoplay=1)|
 
 ## Referências 🔍
 
